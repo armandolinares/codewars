@@ -1,4 +1,4 @@
-package Fundamentals;
+package Fundamentals.kyu8;
 
 public class HelloWorld {
     public static String greet() {

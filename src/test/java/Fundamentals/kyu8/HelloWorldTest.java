@@ -1,5 +1,6 @@
-package Fundamentals;
+package Fundamentals.kyu8;
 
+import Fundamentals.kyu8.HelloWorld;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
