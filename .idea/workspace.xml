@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2331b2d9-c67e-4f97-aab4-de3eeab318fc" name="Changes" comment="🥋">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/DNAToRNAConversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/FakeBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/YouOnlyNeedOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/DNAToRNAConversionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/FakeBinaryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/YouOnlyNeedOneTest.java" afterDir="false" />
+    <list default="true" id="2331b2d9-c67e-4f97-aab4-de3eeab318fc" name="Changes" comment="Organizes by levels and adds kyu8 Katas">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/HowGoodAreYouReally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/HowGoodAreYouReallyTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fundamentals/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Fundamentals/HelloWorldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/HelloWorldTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +72,7 @@
       <recent name="Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FakeBinaryTest">
+  <component name="RunManager" selected="JUnit.HowGoodAreYouReallyTest">
     <configuration name="DNAToRNAConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -125,6 +118,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HowGoodAreYouReallyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.kyu8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fundamentals.kyu8" />
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu8.HowGoodAreYouReallyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="YouOnlyNeedOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
@@ -142,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HowGoodAreYouReallyTest" />
         <item itemvalue="JUnit.FakeBinaryTest" />
         <item itemvalue="JUnit.YouOnlyNeedOneTest" />
         <item itemvalue="JUnit.DNAToRNAConversionTest" />
@@ -163,6 +172,9 @@
       <workItem from="1674858862145" duration="63000" />
       <workItem from="1674866017485" duration="3284000" />
       <workItem from="1674869831738" duration="12000" />
+      <workItem from="1674869994790" duration="660000" />
+      <workItem from="1674870686569" duration="7000" />
+      <workItem from="1674942766979" duration="1606000" />
     </task>
     <task id="LOCAL-00001" summary="🥋">
       <created>1674848818819</created>
@@ -171,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674848818819</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Organizes by levels and adds kyu8 Katas">
+      <created>1674870377090</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674870377090</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +199,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Organizes by levels and adds kyu8 Katas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organizes by levels and adds kyu8 Katas" />
   </component>
 </project>
