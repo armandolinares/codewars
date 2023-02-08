@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2331b2d9-c67e-4f97-aab4-de3eeab318fc" name="Changes" comment="Organizes by levels and adds kyu8 Katas">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu8/HowGoodAreYouReally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu8/HowGoodAreYouReallyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Fundamentals/kyu7/ExesAndOhs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Fundamentals/kyu7/ExesAndOhsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,23 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/Armando/Code/IdeaProjects/codewars",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -68,22 +69,55 @@
       <recent name="Fundamentals.kyu8" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Fundamentals.kyu7" />
       <recent name="Fundamentals.kyu8" />
       <recent name="Fundamentals" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.HowGoodAreYouReallyTest">
-    <configuration name="DNAToRNAConversionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ExesAndOhsTest.testSomething2">
+    <configuration name="ExesAndOhsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Codewars" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Fundamentals.kyu8.*" />
+          <option name="PATTERN" value="Fundamentals.kyu7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Fundamentals.kyu8" />
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu8.DNAToRNAConversionTest" />
+      <option name="PACKAGE_NAME" value="Fundamentals.kyu7" />
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu7.ExesAndOhsTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExesAndOhsTest.testSomething2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.kyu7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fundamentals.kyu7" />
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu7.ExesAndOhsTest" />
+      <option name="METHOD_NAME" value="testSomething2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExesAndOhsTest.testSomething6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Codewars" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Fundamentals.kyu7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Fundamentals.kyu7" />
+      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu7.ExesAndOhsTest" />
+      <option name="METHOD_NAME" value="testSomething6" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,21 +132,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="Fundamentals.kyu8" />
       <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu8.FakeBinaryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fundamentals.kyu8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fundamentals.kyu8" />
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu8.HelloWorldTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -133,28 +152,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YouOnlyNeedOneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Codewars" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Fundamentals.kyu8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Fundamentals.kyu8" />
-      <option name="MAIN_CLASS_NAME" value="Fundamentals.kyu8.YouOnlyNeedOneTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExesAndOhsTest.testSomething2" />
+        <item itemvalue="JUnit.ExesAndOhsTest" />
+        <item itemvalue="JUnit.ExesAndOhsTest.testSomething6" />
         <item itemvalue="JUnit.HowGoodAreYouReallyTest" />
         <item itemvalue="JUnit.FakeBinaryTest" />
-        <item itemvalue="JUnit.YouOnlyNeedOneTest" />
-        <item itemvalue="JUnit.DNAToRNAConversionTest" />
-        <item itemvalue="JUnit.HelloWorldTest" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +179,14 @@
       <workItem from="1674869994790" duration="660000" />
       <workItem from="1674870686569" duration="7000" />
       <workItem from="1674942766979" duration="1606000" />
+      <workItem from="1675109647668" duration="161000" />
+      <workItem from="1675270903207" duration="24000" />
+      <workItem from="1675381925232" duration="33000" />
+      <workItem from="1675382094909" duration="23000" />
+      <workItem from="1675382193056" duration="43000" />
+      <workItem from="1675638614013" duration="23000" />
+      <workItem from="1675885274516" duration="154000" />
+      <workItem from="1675885443342" duration="811000" />
     </task>
     <task id="LOCAL-00001" summary="🥋">
       <created>1674848818819</created>
